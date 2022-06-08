@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "update": {
     "version": "1.0",
-    "message": "修复了一些问题，优化了播放体验"
+    "message": ""
   },
   "film_url": "https://www.dandanzan10.top",
   "film_url_host": "www.dandanzan10.top",
@@ -13,7 +13,7 @@
   "recommends": [
     {
       "title": "说电影",
-      "uid": "5769702533",
+      "uid": "2092751083",
       "type": 1
     },
     {
@@ -24,10 +24,10 @@
   ],
   "transition": 0,
   "review": 0,
-  "limited_date": "10",
+  "limited_date": "0",
   "upgrade_desc": "您是否需要升级专业版，解锁所有影视视频？",
   "in_app_productId": "android.com.coldstone.filmtalk.removeads",
-  "vipbg": "https://coldstone.github.io/filmtalk/film_bg.jpeg",
+  "vipbg": "https://coldstone1900.github.io/filmtalk/film_bg.jpeg",
   "vip": {
     "title": "升级专业版后，您将享有以下权利：",
     "title_vip": "您享有以下权利：",
@@ -45,7 +45,7 @@
       {
         "icon": "ft_pro_ad.png",
         "title": "无广告",
-        "subtitle": "免除广告打扰，一个纯粹的电视剧app"
+        "subtitle": "免除广告打扰"
       }
     ],
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
