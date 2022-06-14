@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "2.0.1",
   "update": {
-    "version": "1.0",
+    "version": "2.0",
     "message": ""
   },
   "film_url": "https://www.dandanzan10.top",
@@ -20,6 +20,28 @@
       "title": "看电影",
       "uid": "2259107520",
       "type": 0
+    }
+  ],
+  "swipes": [
+    {
+      "title": "真人快打",
+      "img": "http://n.sinaimg.cn/spider2021311/596/w2048h948/20210311/5ba3-kmeeius6334146.jpg",
+      "href": "https://www.dandanzan10.top/dianying/86813.html"
+    },
+    {
+      "title": "峰爆",
+      "img": "https://pic3.zhimg.com/v2-ab07b937ac2f749d7322843eddba9b1a_1440w.jpg?source=172ae18b",
+      "href": "https://www.dandanzan10.top/dianying/91057.html"
+    },
+    {
+      "title": "电锯惊魂9：漩涡",
+      "img": "https://img9.doubanio.com/view/photo/l/public/p2643158784.webp",
+      "href": "https://www.dandanzan10.top/dianying/61643.html"
+    },
+    {
+      "title": "暗夜博士：莫比亚斯",
+      "img": "https://p9.itc.cn/q_70/images03/20211206/33f9f61c7de54e0cb792873182e499be.jpeg",
+      "href": "https://www.dandanzan10.top/dianying/54777.html"
     }
   ],
   "transition": 0,
