@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.6",
   "update": {
     "version": "2.0",
     "message": ""
@@ -45,8 +45,8 @@
     }
   ],
   "transition": 0,
-  "review": 1,
-  "limited_date": "0",
+  "review": 0,
+  "limited_date": "1",
   "upgrade_desc": "您是否需要升级专业版，解锁所有影视视频？",
   "in_app_productId": "android.com.coldstone.filmtalk.removeads",
   "vipbg": "https://coldstone1900.github.io/filmtalk/film_bg.jpeg",
