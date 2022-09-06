@@ -1,5 +1,5 @@
 {
-  "version": "2.0.9.1",
+  "version": "2.0.9.2",
   "update": {
     "version": "2.0",
     "message": ""
@@ -45,7 +45,7 @@
     }
   ],
   "transition": 0,
-  "review": 1,
+  "review": 0,
   "limited_date": "1",
   "upgrade_desc": "您是否需要升级专业版，解锁所有影视视频？",
   "in_app_productId": "android.com.coldstone.filmtalk.removeads",
