@@ -1,5 +1,5 @@
 {
-  "version": "2.0.9.3",
+  "version": "2.0.9.4",
   "update": {
     "version": "2.0",
     "message": ""
@@ -250,7 +250,6 @@
     "撒玛利亚"
   ],
   "excluded_filter_films": ["速度与激情"],
-  "buffering_timeout": 20,
   "search_hint_text": "搜索电影",
   "intercept_tags": [
     "in-page-push",
