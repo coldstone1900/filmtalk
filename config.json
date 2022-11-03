@@ -1,5 +1,5 @@
 {
-  "version": "2.0.9.4",
+  "version": "2.0.9.5",
   "update": {
     "version": "2.0",
     "message": ""
@@ -247,7 +247,8 @@
     "拉斯维加斯快车道",
     "沉香如屑",
     "今日的网漫",
-    "撒玛利亚"
+    "撒玛利亚",
+    "昆仑神宫"
   ],
   "excluded_filter_films": ["速度与激情"],
   "search_hint_text": "搜索电影",
